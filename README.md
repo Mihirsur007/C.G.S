@@ -3,15 +3,15 @@
 ## Instructions:
 
 ### Required Libraries: 
-* PySimpleGUI
+* PySimpleGUI:
 `pip install pysimplegui`
-* Numpy
+* Numpy:
 `pip install numpy`
-* MatPlotLib
+* MatPlotLib:
 `pip install numpy`
 
 ### Use Instructions:
-1. Launch C-G-S.py through IDE or Terminal
+1. Launch C-G-S.py through IDE or Terminal:
 `python3 C-G-S.py`
 3. Put CSV file in the same directory as C-G-S.py
 
