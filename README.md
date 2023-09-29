@@ -1,5 +1,5 @@
 # CSV-Graphing-Software
 
-![Home](CGS-Homescreen.png)
+![Home](CGS-mainscreen.png)
 ![Data](CGS-Datascreen.png)
 ![Graph](CGS-Graph.png)
