@@ -22,4 +22,4 @@
 
 ![Home](CGS-mainscreen.png)
 ![Data](CGS-Datascreen.png)
-
+![Graph](CGS-Datagraph.png)
